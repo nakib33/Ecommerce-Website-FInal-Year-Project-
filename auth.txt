@@ -1,0 +1,3 @@
+username : admin
+email : ecom@admin.com
+password : admin1234
